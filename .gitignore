@@ -1,0 +1,4 @@
+__pycache_
+*.swp
+*.sqlite3
+*.sqlite
